@@ -2,15 +2,13 @@
 
 Minimum reproducible Android bug
 
-## Getting Started
+This project contains the minimal code required to produce a layout issue on Android devices.
 
-This project is a starting point for a Flutter application.
+The layout is correct on iOS devices.
 
-A few resources to get you started if this is your first Flutter project:
+The behaviour on Android devices is to initially show the top layer (including the textbox, and mapbox attribution labels) before overwriting with the map view only.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![img.png](Android view)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img_1.png](iOS view)
+
