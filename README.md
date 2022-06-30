@@ -8,7 +8,7 @@ The layout is correct on iOS devices.
 
 The behaviour on Android devices is to initially show the top layer (including the textbox, and mapbox attribution labels) before overwriting with the map view only.
 
-![img.png](Android view)
+![Android View](img.png)
 
 ![img_1.png](iOS view)
 
