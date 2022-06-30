@@ -10,5 +10,5 @@ The behaviour on Android devices is to initially show the top layer (including t
 
 ![Android View](img.png)
 
-![img_1.png](iOS view)
+![iOS View](img_1.png)
 
