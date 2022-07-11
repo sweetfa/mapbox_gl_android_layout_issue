@@ -43,6 +43,11 @@ class MyApp extends StatelessWidget {
                   fillColor: Colors.white,
                   filled: true,
                   labelText: "Stuff",
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.vertical(
+                        top: Radius.circular(6.0),
+                        bottom: Radius.circular(6.0)),
+                  ),
                 ),
               ),
             ),
